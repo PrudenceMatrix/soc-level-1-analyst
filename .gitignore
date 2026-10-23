@@ -1,0 +1,11 @@
+ .env
+   *.key
+   *.pem
+   id_rsa*
+   id_ed25519*
+   *.pcap
+   *.pcapng
+   *.vdi
+   *.ova
+   *.zip
+   *.log
